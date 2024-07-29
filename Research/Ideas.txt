@@ -1,0 +1,8 @@
+Stud Count
+Unlocks
+Shop Unlocks
+Save Hotswap
+Modded Character Support
+Integration of chars.txt and collection.txt
+Support the possible extension of the save file due to @Siberys' work on removing the char limit
+Find proper way of parsing save files, preferably without users input determining which platform and game it is
